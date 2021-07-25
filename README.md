@@ -1,4 +1,4 @@
-# Rate Your Bootcamp Website 
+# Rate Your Bootcamp Website
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -6,7 +6,7 @@
 
 MERN Full-Stack Project
 
-TABS is an MERN Full-Stack Project that allows users to keep track of their significant contacts for dating or connection purposes. TABS allows users to create an authenticated account. Once an account is created, the user can then add contact entries with pertinenet details of the person of interest such as name, age, location, a short quip to remember them by and even upload a contact photo. When a user logs in, they will see their contacts rendered on the page. If a user is more interested in a person, the "fire" icon may be clicked. Then these contacts will be filtered to the top of the page. Alternately, if a user is not as interested in a contact or find out derrogutory news, the contact may be "put on ice" by clicking the "ice" icon, rendering these contacts to the bottom onf the page. Contact cards may be edited at any time, added or dleeted by the user. 
+TABS is an MERN Full-Stack Project that allows users to keep track of their significant contacts for dating or connection purposes. TABS allows users to create an authenticated account. Once an account is created, the user can then add contact entries with pertinenet details of the person of interest such as name, age, location, a short quip to remember them by and even upload a contact photo. When a user logs in, they will see their contacts rendered on the page. If a user is more interested in a person, the "fire" icon may be clicked. Then these contacts will be filtered to the top of the page. Alternately, if a user is not as interested in a contact or find out derrogutory news, the contact may be "put on ice" by clicking the "ice" icon, rendering these contacts to the bottom onf the page. Contact cards may be edited at any time, added or dleeted by the user.
 
 User Story:
 AS a User
@@ -15,16 +15,16 @@ THEN I can add, edit and delete contacts as needed
 
 ## Table of Contents
 
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Live Link](#live-link)
-  - [Technologies Used](#technologies)
-  - [Features](#features)
-  - [Screenshots](#screenshots)
-  - [Future Developments](#futuredev)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Questions](#questions)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Live Link](#live-link)
+- [Technologies Used](#technologies)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Future Developments](#futuredev)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 ## Live Link
 
@@ -68,9 +68,8 @@ Here is a link to a Live Demo: [https://tabs-trial-2.herokuapp.com/](https://tab
 
 [Emily Salinas](https://github.com/Emilyrh1058)
 
-
 ## Questions
- 
+
 You can submit any questions by emailing a team member.
 
 Terry Theiss <a href="mailto:tltheis@prodigy.net?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -81,6 +80,6 @@ Anderson Buzzi <a href="mailto:andibuzzi@gmail.com?"><img src="https://img.shiel
 
 Nancy Rosas <a href="mailto:nancyrosas0@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Clifford Crowell <a href="mailto:crowellclifford@utexas.edu?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+Clifford Crowell <a href="mailto:crowellclifford@utexas.edu?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Emily Salinas <a href="mailto:emilyrh1058@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+Emily Salinas <a href="mailto:emilyrh1058@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
