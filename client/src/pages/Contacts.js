@@ -1,16 +1,12 @@
 import React from "react";
 import { useQuery } from "@apollo/react-hooks";
-import { Card, ListGroup, ListGroupItem, Row, Col } from "react-bootstrap";
-import gql from "graphql-tag";
+import { Row, Col } from "react-bootstrap";
 import PostCard from "../components/Cards/PostCard";
 import { QUERY_POSTS } from "../utils/queries";
 
 function Contacts() {
-  const {
-    loading,
-    data,
-  } = useQuery(QUERY_POSTS);
-  console.log('data', data)
+  const { loading, data } = useQuery(QUERY_POSTS);
+  console.log("data", data);
   const cardData = data?.getPosts || {};
   return (
     //Card vs Row

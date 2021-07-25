@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { ApolloProvider } from '@apollo/client';
-import ApolloClient from 'apollo-boost';
+import { ApolloProvider } from "@apollo/client";
+import ApolloClient from "apollo-boost";
 //import "/dist/css/bootstrap.min.css";
 // import { Container } from "react-bootstrap";
 import "./index.css";
@@ -9,7 +9,7 @@ import Background from "./components/Background";
 import LoginForm from "./pages/LoginForm";
 import Signup from "./pages/Signup";
 import LoginPage from "./components/Login";
-import Cards from "./components/Cards/";
+// import Cards from "./components/Cards/";
 import Contacts from "./pages/Contacts";
 // import Nav from "./components/Nav";
 
@@ -49,24 +49,24 @@ function App() {
                 <Route exact path="/signup" component={Signup} />
                 {/* <Route exact path="/profile/:username?" component={Profile} /> */}
                 <Route exact path="/" component={Background} />
-                <Route exact path="/contacts" component={Cards} />
+                <Route exact path="/contacts" component={Contacts} />
                 <Route exact path="/social" component={SocialCardPage} />
                 {/* <Route component={NoMatch} /> */}
               </Switch>
             </div>
           </div>
         </Router>
- 
-      <main>
-        <Background></Background>
-        {/* <a className="App-link" href="" target="_blank" rel="noopener noreferrer">
+
+        <main>
+          <Background></Background>
+          {/* <a className="App-link" href="" target="_blank" rel="noopener noreferrer">
           Register
         </a>
         <a className="App-link" href="" target="_blank" rel="noopener noreferrer">
           Log In
         </a> */}
-      </main>
-         </ApolloProvider>
+        </main>
+      </ApolloProvider>
     </React.Fragment>
   );
 }
