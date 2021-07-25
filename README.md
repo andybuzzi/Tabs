@@ -32,9 +32,9 @@ Here is a link to a Live Demo: [https://tabs-trial-2.herokuapp.com/](https://tab
 
 ## Technologies Used
 
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Awesome feature 1;
+- Awesome feature 2;
+- Awesome feature 3.
 
 ## Features
 
